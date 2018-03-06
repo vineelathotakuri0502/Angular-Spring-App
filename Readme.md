@@ -23,7 +23,6 @@ Here you can see following things.<br>
 <li>Routing | Router outlet | Router</li>
 </ul>
 <br>
-
 <h1>How to Setup this project </h1>
 
 <h2> Backend </h2>
